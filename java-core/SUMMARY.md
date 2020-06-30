@@ -36,8 +36,6 @@
     * [第2节 redis](chapter7/section2.md)
     * [第3节 消息队列](chapter7/section3.md)
     * [第4节 搜索引擎](chapter7/section4.md)
-* [第八章  servlet](chapter8/README.md)
-* [第九章  mybatis](chapter9/README.md)
+* [第八章  servlet及web容器](chapter8/README.md)
+* [第九章  mybatis框架](chapter9/README.md)
 * [第十章  spring全家桶](chapter10/README.md)
-* [第十一章  微服务](chapter11/README.md)
-
