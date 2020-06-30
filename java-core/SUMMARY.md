@@ -28,7 +28,7 @@
 * [第五章  JAVA IO流及网络编程](chapter5/README.md)
     * [第1节 目录文件操作](chapter5/section1.md)
     * [第2节 输入输出流](chapter5/section2.md)
-    * [第3节 管道流、缓冲流](chapte5/section3.md)
+    * [第3节 管道流、缓冲流](chapter5/section3.md)
     * [第4节 网络编程](chapter5/section4.md)
 * [第六章  JVM](chapter6/README.md)
 * [第七章  数据库](chapter7/README.md)
